@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Supermariobros
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Supermariobros&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Supermariobros Header Banner" />
+
+  <h1>🚀 Supermariobros</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/supermariobros"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Supermariobros** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,121 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Supermariobros - Play Online for Free
-
-## Overview
-Play Supermariobros online for free. Unblocked and available on all devices. Experience the best Supermariobros gameplay now!
-
-### Game Details & Guide
-Supermariobros Guide
-
-
-
-Game Overview
-
-
-What is it?
-
-Supermariobros is a classic arcade game developed by Midway Games, released in 1986. The game follows the adventures of Super Mario Bros., with players controlling Jumpman (later known as Mario) as he navigates through colorful worlds to rescue Princess Peach from the clutches of the evil Bowser.
-
-
-How to Play
-
-
-Controls and Objective
-
-To play Supermariobros, you will control Jumpman using the standard arrow keys or WASD keys. The objective is to guide Mario through increasingly difficult levels by eating power-ups and avoiding obstacles such as Goombas, Koopa Troopas, and Bullet Bills.
-
-
-Control Jumpman using the following keys:
-
-- 
-A
-: Move left
-- 
-D
-: Move right
-- 
-S
-: Jump
-
-
-Tips and Tricks for Success
-
-
-Level Progression and Power-Ups
-
-As you progress through the levels, new power-ups become available to help Mario on his quest. The following are some tips and tricks to keep in mind:
-
-
-
-
-Nice and easy ones will make quick work of the first few levels.
-
-
-Power stars can be found scattered throughout the level or hidden behind secret doors.
-
-
-Taking damage from enemies increases your chances of earning power-ups.
-
-
-
-
-
-Floor and Warp Pipes
-
-Keep an eye out for floor tiles that allow Mario to climb up to higher platforms. These are often located near obstacles such as Goombas or Koopa Troopas.
-
-
-Warp pipes can also be used, but beware of them being blocked by enemies!
-
-
-
-Why You Should Play It
-
-
-Lifetime Earning Potential
-
-Supermariobros has a relatively long lifetime earning potential due to its simplicity and the fact that players can earn money from the game as soon as they start playing.
-
-
-Creating multiple copies of yourself will generate more coins.
-
-
-
-Accessibility and Versatility
-
-The game's controls are easy to learn, making it accessible to players of all skill levels. The game is also highly versatile, allowing players to play with different characters such as Luigi or Wario.
-
-
-The game's graphics may seem simple, but its charm lies in its nostalgic value.
-
-
-
-Conclusion
-
-
-Supermariobros is a classic arcade game that offers hours of fun and challenge for players. With its engaging gameplay, colorful graphics, and timeless charm, it remains one of the most beloved games on the platform today.
-
-## Technical Specifications
-- **Technology**: HTML5
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
